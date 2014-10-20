@@ -9,8 +9,8 @@ C:\Users\jwalton\Source\Workspaces\Workspace\Joshs Small Basic Extension\Joshs S
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\bin\Debug\SmallBasicLibrary.dll
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\bin\Debug\SmallBasicLibrary.xml
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\obj\Debug\Joshs Small Basic Extension.csprojResolveAssemblyReference.cache
-C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\bin\Debug\JoshSB.xml
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\bin\Debug\JoshSB.dll
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\bin\Debug\JoshSB.pdb
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\obj\Debug\JoshSB.dll
 C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\obj\Debug\JoshSB.pdb
+C:\Users\jwalton\Source\Repos\joshsb\Joshs Small Basic Extension\Joshs Small Basic Extension\bin\Debug\Joshs Small Basic Extension.xml
