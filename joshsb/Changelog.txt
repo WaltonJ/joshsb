@@ -16,3 +16,6 @@ v1.2:
 v1.3 'The Big Rename':
 - Renamed files and changed configuration files to match new project name
 - Changed README URLs
+v1.4:
+- Reversion to .NET Framework 3.5 because of compatibility issues
+- Removal of isx64 due to incompatibility with versions of the .NET framework earlier than 4.5

@@ -1,0 +1,6 @@
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\obj\Release\JoshSB.dll
+C:\Users\jwalton\Source\Repos\joshsb\joshsb.xml
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\obj\Release\JoshSB.pdb
+C:\Users\jwalton\Source\Repos\joshsb\JoshSB.dll
+C:\Users\jwalton\Source\Repos\joshsb\JoshSB.pdb
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\obj\Release\joshsb.csprojResolveAssemblyReference.cache

@@ -70,24 +70,6 @@ namespace JoshSB
         }
     }
     /// <summary>
-    /// Determines whether the current operating system is a 64-bit operating system, requires Vista SP2+
-    /// </summary>
-    /// <returns>
-    /// True if the current operating system is a 64-bit operating system
-    /// </returns>
-    /// <example>
-    /// If JoshSB.isx64 then
-    ///     TextWindow.WriteLine("64 bit")
-    /// EndIf
-    /// </example>
-    public static Primitive isx64
-    {
-        get
-        {
-            return (Primitive)Environment.Is64BitOperatingSystem;
-        }
-    }
-    /// <summary>
     /// Gets the NetBIOS name of this local computer
     /// </summary>
     /// <returns>
