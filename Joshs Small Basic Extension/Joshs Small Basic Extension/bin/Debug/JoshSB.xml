@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JoshSB</name>
+    </assembly>
+    <members>
+        <member name="T:JoshSB.JoshSB">
+            <summary>
+            An extension I made which adds functions I regularly use and some new ones into the language
+            </summary>
+        </member>
+        <member name="M:JoshSB.JoshSB.isEven(Microsoft.SmallBasic.Library.Primitive)">
+            <summary>
+            Checks if a specified value is even
+            </summary>
+            <param name="value">The value to check</param>
+            <returns>True if the value is even</returns>
+            <example>JoshSB.isEven(2)</example>
+        </member>
+        <member name="M:JoshSB.JoshSB.isOdd(Microsoft.SmallBasic.Library.Primitive)">
+            <summary>
+            Checks if a specified value is odd
+            </summary>
+            <param name="number">The value to check</param>
+            <returns>True if the number is odd</returns>
+            <example>JoshSB.isOdd(1)</example>
+        </member>
+        <member name="P:JoshSB.JoshSB.CurrentUser">
+            <summary>
+            Gets the user name of the person who is currently logged on to the Windows operating system
+            </summary>
+            <returns>
+            The user name of the person who is currently logged on to the Windows operating system.
+            </returns>
+            <example>
+            username = JoshSB.CurrentUser
+            </example>
+        </member>
+        <member name="P:JoshSB.JoshSB.WorkingDir">
+            <summary>
+            Gets the fully qualified path of the current working directory
+            </summary>
+            <returns>
+            The fully qualified path of the current working directory
+            </returns>
+            <example>
+            dir = JoshSB.WorkingDir
+            </example>
+        </member>
+        <member name="P:JoshSB.JoshSB.isx64">
+            <summary>
+            Determines whether the current operating system is a 64-bit operating system, requires Vista SP2+
+            </summary>
+            <returns>
+            True if the current operating system is a 64-bit operating system
+            </returns>
+            <example>
+            If JoshSB.isx64 then
+                TextWindow.WriteLine("64 bit")
+            EndIf
+            </example>
+        </member>
+        <member name="P:JoshSB.JoshSB.ComputerName">
+            <summary>
+            Gets the NetBIOS name of this local computer
+            </summary>
+            <returns>
+            The NetBIOS name of this local computer
+            </returns>
+            <example>
+            netbios_name = JoshSB.ComputerName
+            </example>
+        </member>
+        <member name="P:JoshSB.JoshSB.CurrentDomain">
+            <summary>
+            Gets the network domain name associated with the current user
+            </summary>
+            <returns>
+            The network domain name associated with the current user
+            </returns>
+            <example>
+            domain = JoshSB.CurrentDomain
+            </example>
+        </member>
+        <member name="P:JoshSB.JoshSB.Uptime">
+            <summary>
+            Gets the number of milliseconds elapsed since the system started
+            </summary>
+            <returns>
+            The number of milliseconds elapsed since the system started
+            </returns>
+            <example>
+            uptime = JoshSB.Uptime
+            </example>
+        </member>
+    </members>
+</doc>

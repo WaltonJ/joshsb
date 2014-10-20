@@ -1,0 +1,12 @@
+v1 'The Beginning':
+- Added isEven and isOdd with IntelliSense XMLs
+v1.1 'The Environment Update':
+- Amended the IntelliSense XML for isEven and isOdd, changed the variable that is passed to isOdd and isEven to value (from number)
+- Removal of System.Linq library from Class1.cs, not used
+- Added CurrentUser (returns current user name) and its IntelliSense data
+- Added WorkingDir (returns current working directory) and its IntelliSense data
+- Added isx64 (returns boolean true if OS is 64 bit) and its IntelliSense data
+- Changed target .NET framework version to 4.5, as some features introduced in this version are now used as of 1.1
+- Changed project name to JoshSB, may cause some inconsistency between files on GitHub
+- Added ComputerName (returns local NetBIOS name) and its IntelliSense data
+- Added CurrentDomain (returns current user's domain name) and its IntelliSense data
