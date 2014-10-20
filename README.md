@@ -8,7 +8,7 @@ My extension for Small Basic - it includes several functions, some I use on a re
 Files - unless I rename them, these links should stay the same
 
 IntelliSense XML file - you'll need this for IntelliSense to work and show you examples, syntax etc.
-https://github.com/WaltonJ/joshsb/blob/master/Joshs%20Small%20Basic%20Extension/Joshs%20Small%20Basic%20Extension.XML
+https://github.com/WaltonJ/joshsb/blob/master/Joshs%20Small%20Basic%20Extension/Joshs%20Small%20Basic%20Extension/Joshs%20Small%20Basic%20Extension.xml
 
 The actual extension itself - DLL file
 https://github.com/WaltonJ/joshsb/blob/master/Joshs%20Small%20Basic%20Extension/Joshs%20Small%20Basic%20Extension.dll
