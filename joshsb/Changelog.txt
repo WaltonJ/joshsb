@@ -13,5 +13,6 @@ v1.1 'The Environment Update':
 - Added Uptime (returns tick count in milliseconds) and its IntelliSense data
 v1.2:
 - Fixed XML IntelliSense file for v1.1
-v1.3:
-- Coming Soon
+v1.3 'The Big Rename':
+- Renamed files and changed configuration files to match new project name
+- Changed README URLs

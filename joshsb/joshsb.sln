@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Joshs Small Basic Extension", "Joshs Small Basic Extension\Joshs Small Basic Extension.csproj", "{744B6888-5BF4-45E8-A579-081D456816CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "joshsb", "joshsb\joshsb.csproj", "{744B6888-5BF4-45E8-A579-081D456816CF}"
 EndProject
 Global
 	GlobalSection(TeamFoundationVersionControl) = preSolution
@@ -11,9 +11,9 @@ Global
 		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
 		SccTeamFoundationServer = https://joshuawalton.visualstudio.com/defaultcollection
 		SccLocalPath0 = .
-		SccProjectUniqueName1 = Joshs\u0020Small\u0020Basic\u0020Extension\\Joshs\u0020Small\u0020Basic\u0020Extension.csproj
-		SccProjectName1 = Joshs\u0020Small\u0020Basic\u0020Extension
-		SccLocalPath1 = Joshs\u0020Small\u0020Basic\u0020Extension
+		SccProjectUniqueName1 = joshsb\\joshsb.csproj
+		SccProjectName1 = joshsb
+		SccLocalPath1 = joshsb
 	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

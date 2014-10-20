@@ -1,0 +1,8 @@
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\bin\Debug\JoshSB.dll
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\bin\Debug\JoshSB.pdb
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\bin\Debug\Joshs Small Basic Extension.xml
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\bin\Debug\SmallBasicLibrary.dll
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\bin\Debug\SmallBasicLibrary.xml
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\obj\Debug\joshsb.csprojResolveAssemblyReference.cache
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\obj\Debug\JoshSB.dll
+C:\Users\jwalton\Source\Repos\joshsb\joshsb\joshsb\obj\Debug\JoshSB.pdb
