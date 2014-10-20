@@ -8,10 +8,10 @@ My extension for Small Basic - it includes several functions, some I use on a re
 Files - unless I rename them, these links should stay the same
 
 IntelliSense XML file - you'll need this for IntelliSense to work and show you examples, syntax etc.
-https://github.com/WaltonJ/joshsb/blob/master/joshsb/joshsb.xml
+https://github.com/WaltonJ/joshsb/blob/master/joshsb/joshsb/joshsb.xml
 
 The actual extension itself - DLL file
-https://github.com/WaltonJ/joshsb/blob/master/joshsb/joshsb/joshsb.dll
+https://github.com/WaltonJ/joshsb/blob/master/joshsb/joshsb.dll
 
 The source - Class1.cs
 https://github.com/WaltonJ/joshsb/blob/master/joshsb/joshsb/Class1.cs
