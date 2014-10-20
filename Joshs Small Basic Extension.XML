@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Joshs Small Basic Extension</name>
+    </assembly>
+    <members>
+        <member name="T:JoshSB.JoshSB">
+            <summary>
+            An extension I made which adds functions I regularly use into the language
+            </summary>
+        </member>
+        <member name="M:JoshSB.JoshSB.isEven(Microsoft.SmallBasic.Library.Primitive)">
+            <summary>
+            Checks if a number is even
+            </summary>
+            <param name="number">The number to check.</param>
+            <returns>True if the number is even</returns>
+            <example>JoshSB.isEven(2)</example>
+        </member>
+        <member name="M:JoshSB.JoshSB.isOdd(Microsoft.SmallBasic.Library.Primitive)">
+            <summary>
+            Checks if a number is odd
+            </summary>
+            <param name="number">The number to check.</param>
+            <returns>True if the number is odd</returns>
+            <example>JoshSB.isOdd(1)</example>
+        </member>
+    </members>
+</doc>
